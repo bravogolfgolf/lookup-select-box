@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image>7bdb4673db70001021759fd2ca9619b5</homepage_image>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-05 19:27:33</sys_created_on>
+        <sys_id>5a4a4233db70001021759fd2ca96199b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Telecommunications</sys_name>
+        <sys_package display_value="Lookup Select Box" source="x_402400_lsb">981d7537db30001021759fd2ca961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Select Box">981d7537db30001021759fd2ca961914</sys_scope>
+        <sys_update_name>sc_category_5a4a4233db70001021759fd2ca96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-05 19:36:54</sys_updated_on>
+        <title>Telecommunications</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a4a4233db70001021759fd2ca96199b"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>homepage_image</file_name>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3579</size_bytes>
+        <size_compressed>1611</size_compressed>
+        <state/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-05 19:33:52</sys_created_on>
+        <sys_id>7bdb4673db70001021759fd2ca9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-05 19:33:52</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>5a4a4233db70001021759fd2ca96199b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="homepage_image" sys_id="7bdb4673db70001021759fd2ca9619b5">7bdb4673db70001021759fd2ca9619b5</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-05 19:33:52</sys_created_on>
+        <sys_id>73db4673db70001021759fd2ca9619b6</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2136</length>
+        <position>1</position>
+        <sys_attachment display_value="homepage_image" sys_id="7bdb4673db70001021759fd2ca9619b5">7bdb4673db70001021759fd2ca9619b5</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-05 19:33:52</sys_created_on>
+        <sys_id>f3db4673db70001021759fd2ca9619b6</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="plan_type" label="Plan Type" language="en" table="x_402400_lsb_source_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>plan_type</element>
+            <help/>
+            <hint/>
+            <label>Plan Type</label>
+            <language>en</language>
+            <name>x_402400_lsb_source_table</name>
+            <plural>Plan Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-05 18:41:37</sys_created_on>
+            <sys_id>5aeff5f7db30001021759fd2ca9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Plan Type</sys_name>
+            <sys_package display_value="Lookup Select Box" source="x_402400_lsb">981d7537db30001021759fd2ca961914</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lookup Select Box">981d7537db30001021759fd2ca961914</sys_scope>
+            <sys_update_name>sys_documentation_x_402400_lsb_source_table_plan_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-05 18:41:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="dl_matcher" label="Data Plan" max_length="40" name="x_402400_lsb_source_table" type="collection">
+        <element label="Description" mandatory="true" max_length="40" name="description" type="string"/>
+        <element choice="3" default="Phone" label="Device Type" mandatory="true" max_length="40" name="device_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Phone" value="Phone"/>
+                <element inactive_on_update="false" label="Tablet" value="Tablet"/>
+            </choice>
+        </element>
+        <element choice="3" default="Standard" label="Plan Type" mandatory="true" max_length="40" name="plan_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Optional" value="Optional"/>
+                <element inactive_on_update="false" label="Standard" value="Standard"/>
+            </choice>
+        </element>
+        <element label="Price" mandatory="true" max_length="20" name="price" type="currency"/>
+        <element choice="3" default="AT&amp;T" label="Provider" mandatory="true" max_length="40" name="provider" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="AT&amp;T" value="AT&amp;T"/>
+                <element inactive_on_update="false" label="T-Moblie" value="T-Mobile"/>
+            </choice>
+        </element>
+    </element>
+</database>
